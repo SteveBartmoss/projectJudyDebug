@@ -66,4 +66,9 @@ export class Judy {
         }
 
     }
+
+    marked(){
+        console.log('I m here :D')
+    }
+    
 }
